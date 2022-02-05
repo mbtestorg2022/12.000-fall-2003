@@ -8,42 +8,351 @@ The following calendar (for Mission 2007) provides a sense of the typical schedu
 
 Although this course does not conduct lectures, in the calendar below you will find links to notes from 'Perspectives Sessions', which are dedicated to whole-class discussions of case studies germane to the Mission topic.
 
-| DAY # | ACTIVITY |
-| --- | --- |
-| 1 | Introduction (General Information Session) |
-| 2 | Selecting Teams (General Information Session) |
-| 3 | Web Design Principles (General Information Session) |
-| 4 | Team Skills Discussion (General Information Session) |
-| 5 | Library Skills Discussion (General Information Session) |
-| 6 | Perspectives I ([PDF]({{< baseurl >}}/resources/perspectives1)) |
-| 7 | Team Meeting |
-| 8 | Team Meeting |
-| 9 | Perspectives II ([PDF]({{< baseurl >}}/resources/perspectives2)) |
-| 10 | Team Meeting |
-| 11 | Full Meeting |
-| 12 | Perspectives III ([PDF]({{< baseurl >}}/resources/perspectives3)) |
-| 13 | Team Meeting |
-| 14 | Team Meeting |
-| 15 | Perspectives IV ([PDF]({{< baseurl >}}/resources/perspectives4)) |
-| 16 | Team Meeting |
-| 17 | Full Meeting |
-| 18 | Team Meeting |
-| 19 | Team Meeting |
-| 20 | Team Meeting |
-| 21 | Team Meeting |
-| 22 | Team Meeting |
-| 23 | Full Meeting |
-| 24 | Team Meeting |
-| 25 | Team Meeting |
-| 26 | Team Meeting |
-| 27 | Team Meeting |
-| 28 | Team Meeting |
-| 29 | Full Meeting |
-| 30 | Team Meeting |
-| 31 | Team Meeting |
-| 32 | Full Meeting |
-| 33 | Final Web Site Due |
-| 34 | Full Meeting |
-| 35 | Full Meeting |
-| 36 | Final Presentation |
-| 37 | Full Meeting
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY #
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction (General Information Session)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Selecting Teams (General Information Session)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Web Design Principles (General Information Session)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Team Skills Discussion (General Information Session)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Library Skills Discussion (General Information Session)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Perspectives I ([PDF]({{< baseurl >}}/resources/perspectives1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Perspectives II ([PDF]({{< baseurl >}}/resources/perspectives2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Full Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Perspectives III ([PDF]({{< baseurl >}}/resources/perspectives3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Perspectives IV ([PDF]({{< baseurl >}}/resources/perspectives4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Full Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Full Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Full Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Team Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Full Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Final Web Site Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Full Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Full Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Full Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
